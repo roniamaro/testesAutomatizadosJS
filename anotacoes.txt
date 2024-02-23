@@ -1,0 +1,2 @@
+// configuração do git usando o gitclone de um repositório do github
+// service.js geralmente é responsável por chamar tudo o que é externo, web, banco de dados

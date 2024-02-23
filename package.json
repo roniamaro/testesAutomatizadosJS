@@ -1,0 +1,23 @@
+{
+  "name": "testesautomatizadosemjs",
+  "version": "1.0.0",
+  "description": "Live com Erick Wendel sobre testes automatizados com javascript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roniamaro/testesAutomatizadosJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roniamaro/testesAutomatizadosJS/issues"
+  },
+  "homepage": "https://github.com/roniamaro/testesAutomatizadosJS#readme"
+}
